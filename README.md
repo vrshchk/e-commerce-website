@@ -1,1 +1,1 @@
-A basic e-commerce website build using React.
+A basic e-commerce website built using React.
